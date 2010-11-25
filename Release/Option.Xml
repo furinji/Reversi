@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Option xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BackImageFileName>Board0.png</BackImageFileName> <!-- Board0.png -->
+  <BlackStoneImageFileName>StoneBlack1.png</BlackStoneImageFileName> <!-- StoneBlack1.png -->
+  <WhiteStoneImageFileName>StoneWhite1.png</WhiteStoneImageFileName> <!-- StoneWhite1.png -->
+</Option>
